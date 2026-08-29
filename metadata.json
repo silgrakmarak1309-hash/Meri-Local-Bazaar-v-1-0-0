@@ -1,0 +1,6 @@
+{
+  "name": "Meri Local Bazaar",
+  "description": "Apne Area Ka Digital Marketplace - Official APK Download & Portal",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
